@@ -1,0 +1,1 @@
+SELECT name, surname from ddl.PERSONS where city_of_living like 'Moscow';
